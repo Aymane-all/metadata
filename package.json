@@ -1,0 +1,27 @@
+{
+  "name": "metadata",
+  "version": "1.0.0",
+  "description": "\"# metadata\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aymane-all/metadata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Aymane-all/metadata/issues"
+  },
+  "homepage": "https://github.com/Aymane-all/metadata#readme",
+  "dependencies": {
+    "dotenv": "^17.0.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.1",
+    "multer": "^2.0.1"
+  }
+}
